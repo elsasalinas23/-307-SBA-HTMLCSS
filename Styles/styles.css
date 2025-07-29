@@ -1,23 +1,23 @@
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
-  background-color: #f9f9f9;
+  background-color: #104a69;
 }
 
 header {
-  background-color: #003366;
+  background-color: rgb(44, 26, 70);
   color: white;
   padding: 15px;
   text-align: center;
 }
 
 a {
-  color:whitesmoke;
+  color:rgb(221, 232, 237);
   text-decoration: none;
 }
 
 .container {
-  background-color: #ffffff;
+  background-color: #104a69;
   border-radius: 5px;
   margin: 20px;
   padding: 20px;
@@ -31,7 +31,8 @@ table {
 }
 
 th, td {
-  padding: 10px;
-  border: 1px solid #ccc;
+  background-color: #104a69;
+  padding: 10px
+  border: 1px solid #0b979e;
   text-align: center;
 }
