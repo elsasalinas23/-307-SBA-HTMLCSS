@@ -6,14 +6,13 @@ body {
 
 header {
   background-color: rgb(44, 26, 70);
-  color: white;
+  color: rgb(9, 141, 143);
   padding: 15px;
   text-align: center;
 }
 
 a {
-  color:rgb(221, 232, 237);
-  text-decoration: none;
+  color: rgb(230, 239, 241) text-decoration:whitesmoke;
 }
 
 .container {
@@ -21,7 +20,7 @@ a {
   border-radius: 5px;
   margin: 20px;
   padding: 20px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 table {
@@ -30,9 +29,8 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th,td {
   background-color: #104a69;
-  padding: 10px
-  border: 1px solid #0b979e;
+  padding: 10px border: 1px solid #0b979e;
   text-align: center;
 }
