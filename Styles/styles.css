@@ -16,11 +16,12 @@ a {
 }
 
 .container {
+  text-align: center;
   background-color: #104a69;
   border-radius: 5px;
   margin: 20px;
   padding: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ 
 }
 
 table {
@@ -33,4 +34,19 @@ th,td {
   background-color: #104a69;
   padding: 10px border: 1px solid #0b979e;
   text-align: center;
+}
+
+header img {
+  width: 400px;
+  display:block;
+  margin:0 auto;
+}
+.container image{
+  display: flex;
+  justify-self: flex-end;
+  gap: 10px
+}
+.container ul {
+  list-style: none;
+  padding-left: 0%;
 }
